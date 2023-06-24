@@ -6,7 +6,7 @@
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrana-r&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrana-r" /> </p>
-###
+
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <h3 align="left">- 🔭 I’m currently working on Blockchain , mern stack<br><br>- 🌱 I’m currently learning  Web 3.O<br><br>- 💬 Ask me about Blockchain,web development</h3>
