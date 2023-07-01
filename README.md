@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1lYmFrdTV6M21lb2N0cWxxazIzbzg2cTB3NTRtOWhrY3cxa3d0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-<h3 align="left">- 🔭 I’m currently working on Blockchain , mern stack<br><br>- 🌱 I’m currently learning  Web 3.O<br><br>- 💬 Ask me about Blockchain,web development</h3>
+<h3>🌱 I am an 21-year computer enthusiast pursuing a bachelor's degree in computer science and engineering in VIT . In addition to my passion for programming, I am constantly striving to enhance my skills and knowledge. I am always open to collaborating on projects and exploring new and creative ideas. I am currently learning data structures and algorithms in  java and also learning web 3.0, data science and web development (Django) and also learning ReactJS for frontend development.</h3>
 
 ###
 
